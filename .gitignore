@@ -1,0 +1,23 @@
+# Operating-system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary files
+~$*
+*.tmp
+*.swp
+
+# Local caches and automatic Blender backups (keep on disk)
+__pycache__/
+*.py[cod]
+*.blend[0-9]*
+
+# Local credentials and machine-specific files
+.env
+.env.*
+!.env.example
+.venv/
+
+# Watermarked stock reference; not project test evidence
+06-testing/images/stock-trolley-reference.png

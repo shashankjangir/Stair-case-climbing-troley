@@ -1,0 +1,49 @@
+{
+  "status": "geometry checks only",
+  "main_axles": 1,
+  "carrier_plates": 4,
+  "wheels": 6,
+  "cluster_bearings": 4,
+  "toe_ground_clearance_mm": 8.0,
+  "wheel_centres_mm": [
+    [
+      0.0,
+      -280,
+      190.0
+    ],
+    [
+      -164.5448,
+      -280,
+      -95.0
+    ],
+    [
+      164.5448,
+      -280,
+      -95.0
+    ],
+    [
+      0.0,
+      280,
+      190.0
+    ],
+    [
+      -164.5448,
+      280,
+      -95.0
+    ],
+    [
+      164.5448,
+      280,
+      -95.0
+    ]
+  ],
+  "not_verified": [
+    "mass and CG",
+    "stress",
+    "contact motion",
+    "stair clearance",
+    "carrier root blends",
+    "fits and retention",
+    "descent control"
+  ]
+}

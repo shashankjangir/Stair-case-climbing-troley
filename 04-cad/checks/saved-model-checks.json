@@ -1,0 +1,73 @@
+{
+  "saved_file_reopened": true,
+  "checks_passed": [
+    "1 shared axle",
+    "4 vertical carrier plates, 6 mm thick",
+    "6 wheels, 200 x 50 mm",
+    "4 cluster bearings",
+    "660 mm main axle",
+    "8 mm toe floor clearance",
+    "cluster pivots carry their wheels"
+  ],
+  "carrier_world_bounds_mm": {
+    "Carrier -1 -35": [
+      [
+        -194.54483687877655,
+        194.54483687877655
+      ],
+      [
+        -318.00001859664917,
+        -312.00000643730164
+      ],
+      [
+        -125.0,
+        220.0000137090683
+      ]
+    ],
+    "Carrier -1 35": [
+      [
+        -194.54483687877655,
+        194.54483687877655
+      ],
+      [
+        -248.00001084804535,
+        -241.99999868869781
+      ],
+      [
+        -125.0,
+        220.0000137090683
+      ]
+    ],
+    "Carrier 1 -35": [
+      [
+        -194.54483687877655,
+        194.54483687877655
+      ],
+      [
+        241.99999868869781,
+        248.00001084804535
+      ],
+      [
+        -125.0,
+        220.0000137090683
+      ]
+    ],
+    "Carrier 1 35": [
+      [
+        -194.54483687877655,
+        194.54483687877655
+      ],
+      [
+        311.99997663497925,
+        317.9999887943268
+      ],
+      [
+        -125.0,
+        220.0000137090683
+      ]
+    ]
+  },
+  "scope": "Nominal geometry and parenting only. No stress, mass, contact or stair-motion validation.",
+  "checked_at_utc": "2026-10-11T05:14:37.895380+00:00",
+  "model_sha256": "01c8564b2faf31baf1067fabb8c5aa4454d1c7ac992f76a74c75de5ff250b702"
+}
